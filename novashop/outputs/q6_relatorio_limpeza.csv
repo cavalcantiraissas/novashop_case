@@ -1,0 +1,6 @@
+tabela,campo,problema,quantidade,acao
+pedidos,valor_total,nulo,79,"imputado com mediana (R$ 1,526.92)"
+itens_pedido,desconto_aplicado,nulo,301,preenchido com 0.0 (sem desconto)
+avaliacoes,comentario,nulo,1679,preenchido com string vazia
+tickets_suporte,data_resolucao,nulo em tickets abertos,806,mantido — esperado para tickets em aberto
+tickets_suporte,data_resolucao,nulo em tickets fechados/resolvidos,847,mantido com aviso — requer investigação operacional
