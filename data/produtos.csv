@@ -1,0 +1,201 @@
+id,nome,categoria,subcategoria,preco_unitario,custo_unitario,fornecedor
+1,Smartphones 1,Eletrônicos,Smartphones,1620.35,929.9,DeltaFornece ME
+2,Smartphones 2,Eletrônicos,Smartphones,3395.23,2048.51,AlphaSupply
+3,Notebooks 3,Eletrônicos,Notebooks,2429.34,1524.46,TechBrasil Ltda
+4,Notebooks 4,Eletrônicos,Notebooks,3467.5,1603.14,GlobalBR Comércio
+5,Notebooks 5,Eletrônicos,Notebooks,1328.39,672.73,GlobalBR Comércio
+6,Notebooks 6,Eletrônicos,Notebooks,2676.56,1434.44,MegaDistribuidora
+7,Notebooks 7,Eletrônicos,Notebooks,497.2,294.9,SulFornece SA
+8,Notebooks 8,Eletrônicos,Notebooks,1211.85,814.08,GlobalBR Comércio
+9,Tablets 9,Eletrônicos,Tablets,2677.53,1316.38,TechBrasil Ltda
+10,Tablets 10,Eletrônicos,Tablets,1566.01,830.63,DeltaFornece ME
+11,Fones de Ouvido 11,Eletrônicos,Fones de Ouvido,1450.84,788.4,MegaDistribuidora
+12,Fones de Ouvido 12,Eletrônicos,Fones de Ouvido,2679.18,1471.05,TechBrasil Ltda
+13,Fones de Ouvido 13,Eletrônicos,Fones de Ouvido,1975.09,1098.87,NorteImport Ltda
+14,Fones de Ouvido 14,Eletrônicos,Fones de Ouvido,2405.72,1384.95,NorteImport Ltda
+15,Fones de Ouvido 15,Eletrônicos,Fones de Ouvido,1428.61,1033.82,NorteImport Ltda
+16,Fones de Ouvido 16,Eletrônicos,Fones de Ouvido,407.22,239.56,MarcoPolo Distribuição
+17,Smart TVs 17,Eletrônicos,Smart TVs,3303.88,2080.86,MegaDistribuidora
+18,Smart TVs 18,Eletrônicos,Smart TVs,3490.39,2259.89,TechBrasil Ltda
+19,Smart TVs 19,Eletrônicos,Smart TVs,939.3,600.58,SulFornece SA
+20,Smart TVs 20,Eletrônicos,Smart TVs,2325.14,1324.94,TechBrasil Ltda
+21,Smart TVs 21,Eletrônicos,Smart TVs,1153.43,796.08,TechBrasil Ltda
+22,Smart TVs 22,Eletrônicos,Smart TVs,586.63,411.32,GlobalBR Comércio
+23,Câmeras 23,Eletrônicos,Câmeras,1025.22,552.96,DeltaFornece ME
+24,Câmeras 24,Eletrônicos,Câmeras,2941.94,2022.0,NorteImport Ltda
+25,Câmeras 25,Eletrônicos,Câmeras,1264.61,902.26,AlphaSupply
+26,Câmeras 26,Eletrônicos,Câmeras,3064.15,1435.33,NorteImport Ltda
+27,Câmeras 27,Eletrônicos,Câmeras,2338.65,1311.28,MarcoPolo Distribuição
+28,Camisetas 28,Moda,Camisetas,2919.43,1429.85,DeltaFornece ME
+29,Camisetas 29,Moda,Camisetas,1226.5,497.36,SulFornece SA
+30,Camisetas 30,Moda,Camisetas,3240.21,1923.14,TechBrasil Ltda
+31,Camisetas 31,Moda,Camisetas,179.64,121.35,GlobalBR Comércio
+32,Calças 32,Moda,Calças,369.85,162.36,FornecedorX
+33,Calças 33,Moda,Calças,2263.0,1683.56,FornecedorX
+34,Calças 34,Moda,Calças,1365.1,977.44,AlphaSupply
+35,Calças 35,Moda,Calças,2891.76,1178.21,NorteImport Ltda
+36,Calças 36,Moda,Calças,1520.5,837.31,MarcoPolo Distribuição
+37,Vestidos 37,Moda,Vestidos,2292.89,1293.68,TechBrasil Ltda
+38,Vestidos 38,Moda,Vestidos,123.84,65.53,FornecedorX
+39,Calçados 39,Moda,Calçados,180.9,118.49,NorteImport Ltda
+40,Calçados 40,Moda,Calçados,473.37,256.4,DeltaFornece ME
+41,Acessórios 41,Moda,Acessórios,970.79,611.57,GlobalBR Comércio
+42,Acessórios 42,Moda,Acessórios,2867.47,1775.02,TechBrasil Ltda
+43,Acessórios 43,Moda,Acessórios,1331.74,631.79,DeltaFornece ME
+44,Acessórios 44,Moda,Acessórios,1142.77,719.41,MarcoPolo Distribuição
+45,Acessórios 45,Moda,Acessórios,492.19,208.51,SulFornece SA
+46,Roupas Íntimas 46,Moda,Roupas Íntimas,450.22,336.42,NorteImport Ltda
+47,Roupas Íntimas 47,Moda,Roupas Íntimas,1546.93,1144.28,MarcoPolo Distribuição
+48,Roupas Íntimas 48,Moda,Roupas Íntimas,3154.17,2030.49,FornecedorX
+49,Móveis 49,Casa & Decoração,Móveis,2096.55,1131.56,MegaDistribuidora
+50,Móveis 50,Casa & Decoração,Móveis,2970.64,1377.71,FornecedorX
+51,Móveis 51,Casa & Decoração,Móveis,36.28,16.67,NorteImport Ltda
+52,Móveis 52,Casa & Decoração,Móveis,1175.56,738.61,DeltaFornece ME
+53,Luminárias 53,Casa & Decoração,Luminárias,211.4,103.72,SulFornece SA
+54,Luminárias 54,Casa & Decoração,Luminárias,3313.57,1406.01,DeltaFornece ME
+55,Luminárias 55,Casa & Decoração,Luminárias,2514.2,1470.04,SulFornece SA
+56,Luminárias 56,Casa & Decoração,Luminárias,2222.08,1306.23,NorteImport Ltda
+57,Luminárias 57,Casa & Decoração,Luminárias,1883.21,1052.8,FornecedorX
+58,Luminárias 58,Casa & Decoração,Luminárias,1951.56,977.09,FornecedorX
+59,Tapetes 59,Casa & Decoração,Tapetes,645.59,333.12,FornecedorX
+60,Tapetes 60,Casa & Decoração,Tapetes,502.7,225.85,DeltaFornece ME
+61,Tapetes 61,Casa & Decoração,Tapetes,418.06,240.04,MegaDistribuidora
+62,Quadros 62,Casa & Decoração,Quadros,246.96,156.18,DeltaFornece ME
+63,Quadros 63,Casa & Decoração,Quadros,2983.1,2188.08,MegaDistribuidora
+64,Quadros 64,Casa & Decoração,Quadros,915.27,540.98,AlphaSupply
+65,Quadros 65,Casa & Decoração,Quadros,2679.93,1410.93,SulFornece SA
+66,Quadros 66,Casa & Decoração,Quadros,1052.01,467.25,NorteImport Ltda
+67,Vasos 67,Casa & Decoração,Vasos,2918.93,1326.84,DeltaFornece ME
+68,Vasos 68,Casa & Decoração,Vasos,2038.32,1027.69,MarcoPolo Distribuição
+69,Utensílios 69,Casa & Decoração,Utensílios,920.95,417.57,TechBrasil Ltda
+70,Utensílios 70,Casa & Decoração,Utensílios,1176.79,681.46,AlphaSupply
+71,Utensílios 71,Casa & Decoração,Utensílios,695.4,392.59,MegaDistribuidora
+72,Bicicletas 72,Esporte & Lazer,Bicicletas,850.17,445.91,SulFornece SA
+73,Bicicletas 73,Esporte & Lazer,Bicicletas,1503.53,1107.95,SulFornece SA
+74,Bicicletas 74,Esporte & Lazer,Bicicletas,2845.12,1579.37,SulFornece SA
+75,Tênis Esportivo 75,Esporte & Lazer,Tênis Esportivo,1908.42,1300.2,GlobalBR Comércio
+76,Tênis Esportivo 76,Esporte & Lazer,Tênis Esportivo,656.08,334.93,MegaDistribuidora
+77,Tênis Esportivo 77,Esporte & Lazer,Tênis Esportivo,1566.42,1007.2,AlphaSupply
+78,Tênis Esportivo 78,Esporte & Lazer,Tênis Esportivo,3244.14,1605.43,TechBrasil Ltda
+79,Tênis Esportivo 79,Esporte & Lazer,Tênis Esportivo,368.82,203.74,DeltaFornece ME
+80,Equipamentos de Academia 80,Esporte & Lazer,Equipamentos de Academia,2404.17,1644.94,GlobalBR Comércio
+81,Equipamentos de Academia 81,Esporte & Lazer,Equipamentos de Academia,1745.53,859.98,GlobalBR Comércio
+82,Equipamentos de Academia 82,Esporte & Lazer,Equipamentos de Academia,3268.3,1773.47,MegaDistribuidora
+83,Equipamentos de Academia 83,Esporte & Lazer,Equipamentos de Academia,3454.48,2319.44,SulFornece SA
+84,Equipamentos de Academia 84,Esporte & Lazer,Equipamentos de Academia,2063.0,1131.64,GlobalBR Comércio
+85,Camping 85,Esporte & Lazer,Camping,3401.27,2144.47,TechBrasil Ltda
+86,Camping 86,Esporte & Lazer,Camping,2417.89,1718.5,FornecedorX
+87,Camping 87,Esporte & Lazer,Camping,1686.72,924.15,AlphaSupply
+88,Camping 88,Esporte & Lazer,Camping,2916.82,1489.58,MegaDistribuidora
+89,Natação 89,Esporte & Lazer,Natação,1897.95,1151.37,NorteImport Ltda
+90,Natação 90,Esporte & Lazer,Natação,608.15,393.36,NorteImport Ltda
+91,Cosméticos 91,Beleza & Saúde,Cosméticos,2632.52,1144.28,MarcoPolo Distribuição
+92,Cosméticos 92,Beleza & Saúde,Cosméticos,2046.19,1220.93,FornecedorX
+93,Cosméticos 93,Beleza & Saúde,Cosméticos,2886.24,1265.79,FornecedorX
+94,Cosméticos 94,Beleza & Saúde,Cosméticos,2643.5,1865.66,MegaDistribuidora
+95,Cosméticos 95,Beleza & Saúde,Cosméticos,2951.42,2160.53,DeltaFornece ME
+96,Cosméticos 96,Beleza & Saúde,Cosméticos,1552.26,847.02,MegaDistribuidora
+97,Perfumes 97,Beleza & Saúde,Perfumes,1057.85,593.29,MarcoPolo Distribuição
+98,Perfumes 98,Beleza & Saúde,Perfumes,3147.02,1851.26,NorteImport Ltda
+99,Perfumes 99,Beleza & Saúde,Perfumes,3206.93,2110.35,MegaDistribuidora
+100,Cuidados com a Pele 100,Beleza & Saúde,Cuidados com a Pele,2784.9,1887.78,SulFornece SA
+101,Cuidados com a Pele 101,Beleza & Saúde,Cuidados com a Pele,1837.91,1126.77,MegaDistribuidora
+102,Cuidados com a Pele 102,Beleza & Saúde,Cuidados com a Pele,650.05,438.02,DeltaFornece ME
+103,Cuidados com a Pele 103,Beleza & Saúde,Cuidados com a Pele,1855.65,1169.8,MegaDistribuidora
+104,Suplementos 104,Beleza & Saúde,Suplementos,2029.76,1089.14,MegaDistribuidora
+105,Suplementos 105,Beleza & Saúde,Suplementos,973.73,417.97,TechBrasil Ltda
+106,Vitaminas 106,Beleza & Saúde,Vitaminas,2303.57,1029.09,SulFornece SA
+107,Vitaminas 107,Beleza & Saúde,Vitaminas,2919.38,1734.54,FornecedorX
+108,Vitaminas 108,Beleza & Saúde,Vitaminas,1114.95,617.58,GlobalBR Comércio
+109,Vitaminas 109,Beleza & Saúde,Vitaminas,2054.43,1381.9,MegaDistribuidora
+110,Vitaminas 110,Beleza & Saúde,Vitaminas,2203.59,1145.98,TechBrasil Ltda
+111,Vitaminas 111,Beleza & Saúde,Vitaminas,2644.59,1553.33,FornecedorX
+112,Cafés 112,Alimentos & Bebidas,Cafés,455.98,279.02,MegaDistribuidora
+113,Cafés 113,Alimentos & Bebidas,Cafés,439.68,292.65,TechBrasil Ltda
+114,Cafés 114,Alimentos & Bebidas,Cafés,881.44,396.49,DeltaFornece ME
+115,Chás 115,Alimentos & Bebidas,Chás,3446.88,2214.34,FornecedorX
+116,Chás 116,Alimentos & Bebidas,Chás,1233.22,819.88,TechBrasil Ltda
+117,Chás 117,Alimentos & Bebidas,Chás,2419.94,1537.07,MegaDistribuidora
+118,Chás 118,Alimentos & Bebidas,Chás,2996.71,1495.32,DeltaFornece ME
+119,Chás 119,Alimentos & Bebidas,Chás,1157.17,511.74,MarcoPolo Distribuição
+120,Chás 120,Alimentos & Bebidas,Chás,734.95,533.29,MarcoPolo Distribuição
+121,Vinhos 121,Alimentos & Bebidas,Vinhos,1336.21,814.13,MegaDistribuidora
+122,Vinhos 122,Alimentos & Bebidas,Vinhos,771.36,484.39,GlobalBR Comércio
+123,Vinhos 123,Alimentos & Bebidas,Vinhos,1995.7,1350.8,TechBrasil Ltda
+124,Chocolates 124,Alimentos & Bebidas,Chocolates,2198.81,1230.03,GlobalBR Comércio
+125,Chocolates 125,Alimentos & Bebidas,Chocolates,329.86,174.33,AlphaSupply
+126,Snacks Saudáveis 126,Alimentos & Bebidas,Snacks Saudáveis,2282.56,1024.25,AlphaSupply
+127,Snacks Saudáveis 127,Alimentos & Bebidas,Snacks Saudáveis,2052.97,1131.53,MegaDistribuidora
+128,Livros Técnicos 128,Livros & Papelaria,Livros Técnicos,1338.71,888.72,TechBrasil Ltda
+129,Livros Técnicos 129,Livros & Papelaria,Livros Técnicos,2315.19,1057.09,MarcoPolo Distribuição
+130,Literatura 130,Livros & Papelaria,Literatura,648.26,479.8,GlobalBR Comércio
+131,Literatura 131,Livros & Papelaria,Literatura,3488.74,1822.68,FornecedorX
+132,Literatura 132,Livros & Papelaria,Literatura,3200.68,2070.06,GlobalBR Comércio
+133,Literatura 133,Livros & Papelaria,Literatura,2828.22,1867.34,GlobalBR Comércio
+134,Literatura 134,Livros & Papelaria,Literatura,281.75,123.22,MarcoPolo Distribuição
+135,Agendas 135,Livros & Papelaria,Agendas,2226.6,1510.4,NorteImport Ltda
+136,Agendas 136,Livros & Papelaria,Agendas,1442.44,947.74,MegaDistribuidora
+137,Agendas 137,Livros & Papelaria,Agendas,145.59,75.09,SulFornece SA
+138,Agendas 138,Livros & Papelaria,Agendas,1724.1,1163.94,MarcoPolo Distribuição
+139,Material Escolar 139,Livros & Papelaria,Material Escolar,741.73,521.43,MegaDistribuidora
+140,Material Escolar 140,Livros & Papelaria,Material Escolar,932.59,614.85,MegaDistribuidora
+141,Material Escolar 141,Livros & Papelaria,Material Escolar,1858.11,1017.03,AlphaSupply
+142,Material Escolar 142,Livros & Papelaria,Material Escolar,3244.08,1779.8,TechBrasil Ltda
+143,Material Escolar 143,Livros & Papelaria,Material Escolar,1473.09,897.49,TechBrasil Ltda
+144,Fraldas 144,Bebês & Crianças,Fraldas,620.35,355.47,NorteImport Ltda
+145,Fraldas 145,Bebês & Crianças,Fraldas,3285.62,1878.71,FornecedorX
+146,Fraldas 146,Bebês & Crianças,Fraldas,2644.08,1658.6,AlphaSupply
+147,Fraldas 147,Bebês & Crianças,Fraldas,2911.59,1402.16,MarcoPolo Distribuição
+148,Fraldas 148,Bebês & Crianças,Fraldas,488.21,282.27,AlphaSupply
+149,Fraldas 149,Bebês & Crianças,Fraldas,89.14,36.66,MegaDistribuidora
+150,Brinquedos 150,Bebês & Crianças,Brinquedos,2655.09,1211.52,TechBrasil Ltda
+151,Brinquedos 151,Bebês & Crianças,Brinquedos,722.79,302.5,MegaDistribuidora
+152,Roupas Infantis 152,Bebês & Crianças,Roupas Infantis,1734.56,968.0,FornecedorX
+153,Roupas Infantis 153,Bebês & Crianças,Roupas Infantis,3366.88,2263.03,GlobalBR Comércio
+154,Roupas Infantis 154,Bebês & Crianças,Roupas Infantis,1004.62,586.48,DeltaFornece ME
+155,Roupas Infantis 155,Bebês & Crianças,Roupas Infantis,889.98,595.05,DeltaFornece ME
+156,Roupas Infantis 156,Bebês & Crianças,Roupas Infantis,58.41,25.14,FornecedorX
+157,Roupas Infantis 157,Bebês & Crianças,Roupas Infantis,687.61,316.94,TechBrasil Ltda
+158,Cadeirinhas 158,Bebês & Crianças,Cadeirinhas,1914.15,1170.38,SulFornece SA
+159,Cadeirinhas 159,Bebês & Crianças,Cadeirinhas,3395.06,1448.53,DeltaFornece ME
+160,Cadeirinhas 160,Bebês & Crianças,Cadeirinhas,2968.13,1330.24,MegaDistribuidora
+161,Câmeras 161,Eletrônicos,Câmeras,2288.52,1276.02,DeltaFornece ME
+162,Cuidados com a Pele 162,Beleza & Saúde,Cuidados com a Pele,246.0,103.27,NorteImport Ltda
+163,Acessórios 163,Moda,Acessórios,764.59,378.28,AlphaSupply
+164,Camisetas 164,Moda,Camisetas,2180.52,1417.57,SulFornece SA
+165,Tapetes 165,Casa & Decoração,Tapetes,1910.79,1075.71,MarcoPolo Distribuição
+166,Utensílios 166,Casa & Decoração,Utensílios,1373.36,672.28,GlobalBR Comércio
+167,Tênis Esportivo 167,Esporte & Lazer,Tênis Esportivo,633.43,270.69,NorteImport Ltda
+168,Luminárias 168,Casa & Decoração,Luminárias,1024.3,504.73,AlphaSupply
+169,Quadros 169,Casa & Decoração,Quadros,362.38,212.63,TechBrasil Ltda
+170,Equipamentos de Academia 170,Esporte & Lazer,Equipamentos de Academia,1348.26,742.98,AlphaSupply
+171,Fones de Ouvido 171,Eletrônicos,Fones de Ouvido,56.82,33.59,SulFornece SA
+172,Notebooks 172,Eletrônicos,Notebooks,2729.94,1122.36,AlphaSupply
+173,Material Escolar 173,Livros & Papelaria,Material Escolar,2529.22,1073.72,GlobalBR Comércio
+174,Smartphones 174,Eletrônicos,Smartphones,1196.29,677.73,TechBrasil Ltda
+175,Calçados 175,Moda,Calçados,863.23,446.06,TechBrasil Ltda
+176,Fones de Ouvido 176,Eletrônicos,Fones de Ouvido,768.41,431.48,TechBrasil Ltda
+177,Brinquedos 177,Bebês & Crianças,Brinquedos,573.46,251.29,GlobalBR Comércio
+178,Câmeras 178,Eletrônicos,Câmeras,1789.97,1270.18,MarcoPolo Distribuição
+179,Luminárias 179,Casa & Decoração,Luminárias,433.03,295.11,NorteImport Ltda
+180,Livros Técnicos 180,Livros & Papelaria,Livros Técnicos,3495.8,1534.08,MegaDistribuidora
+181,Fraldas 181,Bebês & Crianças,Fraldas,1599.94,811.55,SulFornece SA
+182,Equipamentos de Academia 182,Esporte & Lazer,Equipamentos de Academia,1036.58,699.98,SulFornece SA
+183,Chás 183,Alimentos & Bebidas,Chás,338.56,182.5,DeltaFornece ME
+184,Luminárias 184,Casa & Decoração,Luminárias,3191.12,1577.87,DeltaFornece ME
+185,Smart TVs 185,Eletrônicos,Smart TVs,961.52,634.28,MarcoPolo Distribuição
+186,Quadros 186,Casa & Decoração,Quadros,2165.33,1023.95,FornecedorX
+187,Cafés 187,Alimentos & Bebidas,Cafés,797.9,355.62,MarcoPolo Distribuição
+188,Vitaminas 188,Beleza & Saúde,Vitaminas,99.01,73.24,DeltaFornece ME
+189,Vinhos 189,Alimentos & Bebidas,Vinhos,2051.45,1072.43,SulFornece SA
+190,Camisetas 190,Moda,Camisetas,2018.78,885.55,MegaDistribuidora
+191,Quadros 191,Casa & Decoração,Quadros,1898.62,1028.31,NorteImport Ltda
+192,Agendas 192,Livros & Papelaria,Agendas,1684.21,925.96,GlobalBR Comércio
+193,Luminárias 193,Casa & Decoração,Luminárias,1630.68,1222.51,NorteImport Ltda
+194,Suplementos 194,Beleza & Saúde,Suplementos,916.98,530.85,MegaDistribuidora
+195,Acessórios 195,Moda,Acessórios,128.36,64.44,SulFornece SA
+196,Calçados 196,Moda,Calçados,1063.2,444.02,AlphaSupply
+197,Literatura 197,Livros & Papelaria,Literatura,2920.12,1970.78,NorteImport Ltda
+198,Vitaminas 198,Beleza & Saúde,Vitaminas,1538.11,856.98,SulFornece SA
+199,Calças 199,Moda,Calças,2015.68,1178.62,GlobalBR Comércio
+200,Luminárias 200,Casa & Decoração,Luminárias,2504.74,1010.42,DeltaFornece ME
